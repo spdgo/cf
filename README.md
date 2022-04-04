@@ -50,7 +50,6 @@ steps:-i)wireshark--search http --> right click on hypertext transfer protocol
 select follow-- tcp stream
 ii) frame matches "(?i)cell"
 iii)frame matches "(?i)zillow" 
-right click and check protocol preference and allow that)
 then go to file --> export object-- http and save all
 iv)http.response right click -- apply as column 
 go to statistics-- endpoints--op
